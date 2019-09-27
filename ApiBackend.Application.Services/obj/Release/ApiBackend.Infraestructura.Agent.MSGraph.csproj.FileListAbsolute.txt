@@ -1,0 +1,10 @@
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\bin\Release\ApiBackend.Infraestructura.Agents.MSGraph.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\bin\Release\ApiBackend.Infraestructura.Agents.MSGraph.pdb
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\bin\Release\Newtonsoft.Json.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\bin\Release\Newtonsoft.Json.xml
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\obj\Release\ApiBackend.Infraestructura.Agent.MSGraph.csprojResolveAssemblyReference.cache
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\obj\Release\ApiBackend.Infraestructura.Agents.MSGraph.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\obj\Release\ApiBackend.Infraestructura.Agents.MSGraph.pdb
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\bin\Release\ApiBackend.Transversal.DTOs.PLC.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\bin\Release\ApiBackend.Transversal.DTOs.PLC.pdb
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\obj\Release\ApiBackend.Infraestructura.Agent.MSGraph.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\bin\Debug\ApiBackend.Application.Services.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\bin\Debug\ApiBackend.Application.Services.pdb
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\bin\Debug\Apibackend.Trasversal.DTOs.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\bin\Debug\Apibackend.Trasversal.DTOs.pdb
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\obj\Debug\ApiBackend.Infraestructura.Agent.csprojResolveAssemblyReference.cache
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\obj\Debug\ApiBackend.Application.Services.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Services\obj\Debug\ApiBackend.Application.Services.pdb

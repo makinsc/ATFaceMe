@@ -1,0 +1,215 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBackend", "ApiBackend\ApiBackend.csproj", "{570F89F8-9FD6-4D8F-8222-8F15A79FC64C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.-Applicacion", "2.-Applicacion", "{4C0AD8D7-6FCC-4099-B22A-F451BB6ADEE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBackend.Application.Core", "ApiBackend.Application.Core\ApiBackend.Application.Core.csproj", "{A70431A6-1F7B-4AE6-A59F-9852BDA15D57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBackend.Infraestructura.Agent.MSGraph", "ApiBackend.Application.Services\ApiBackend.Infraestructura.Agent.MSGraph.csproj", "{C97BA909-902A-4C9F-9857-2DE3829FA2D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.- Servicios Distribuidos", "1.- Servicios Distribuidos", "{4DD566D0-E48F-4DB4-96D1-17688DD01E25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.1.- Api Rest", "1.1.- Api Rest", "{D29FB569-8D0D-4B38-81F2-498EFC6AFDE0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.1.- Core", "2.1.- Core", "{26F9E746-9384-4A37-A35E-2F702BA54CFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.- Infraestructura", "4.- Infraestructura", "{2C4F3FC5-EE16-49BB-98B1-C6B9EEA5AB2A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 Agents", "4.1 Agents", "{2C679512-0B5F-4AE4-910D-70CEC01871C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.- Trasversal", "5.- Trasversal", "{42776134-85D7-4CD7-A0B7-DBE342C5F481}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.1 DTOs", "5.1 DTOs", "{35EB1A3E-CB57-4C5D-899E-E2157A8E41EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apibackend.Trasversal.DTOs", "Apibackend.Trasversal.DTOs\Apibackend.Trasversal.DTOs.csproj", "{D9D02529-3DCA-4FEE-AB58-CE408FC65D18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.2.- WorkerRole", "1.2.- WorkerRole", "{59EEE63B-E167-4A56-9788-340EFB37B699}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1.1 MSGraph", "4.1.1 MSGraph", "{19B354D2-B186-4F76-B902-EE151743EBBC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1.2 Cognitive", "4.1.2 Cognitive", "{8377157E-B992-4605-B43F-54D2D619E066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBackend.Infraestructura.Agent.Recognition", "Recognition\ApiBackend.Infraestructura.Agent.Recognition.csproj", "{9C511936-CC5B-4AA3-B131-EB5D8D8DB40A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.- Dominio", "3.- Dominio", "{C11F6D65-A306-49E5-9B8B-B6AA22B63B93}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.1.- Core", "3.1.- Core", "{FE36DA46-8137-46D0-AD66-7527060BD26A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.2.- ExternalAgents", "3.2.- ExternalAgents", "{24C35F75-D19A-4E65-A711-8DB8C88410EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBackend.Dominio.ExternalAgents", "ApiBackend.Dominio.ExternalAgents\ApiBackend.Dominio.ExternalAgents.csproj", "{A83F2E51-5DC3-4B6B-B849-091FE837D889}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.2.- ExternalAgent", "2.2.- ExternalAgent", "{F05349CF-3688-4CEE-B73E-BC813699512E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBackend.Applicacion.ExternalAgent", "ApiBackend.Applicacion.ExternalAgent\ApiBackend.Applicacion.ExternalAgent.csproj", "{F1FA1ED1-898B-4824-BB67-18D4639B27C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WRColaTokens", "Apibackend.WorkerRole\WRColaTokens.csproj", "{43092233-CFB5-4607-8831-2AE1C4C2B5E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0.- Deployment", "0.- Deployment", "{77BB0206-8087-4828-A303-B54511020822}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AzureCloudService1", "Apibackend.Deployment\AzureCloudService1.ccproj", "{B49F6079-7D77-4619-87B4-67A27730E3AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBackend.Transversal.DTOs.PLC", "ApiBackend.Transversal.DTOs.PLC\ApiBackend.Transversal.DTOs.PLC.csproj", "{50D14C3A-2082-4FFB-A894-742CB7AD6BB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1.3 BlobStorage", "4.1.3 BlobStorage", "{E5C14BF2-8258-407E-A1AF-D3A1CDD431EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBackend.Infraestructura.Agent.BlobStorage", "ApiBackend.Infraestructura.Agent.BlobStorage\ApiBackend.Infraestructura.Agent.BlobStorage.csproj", "{5229F42E-1E3D-4F0A-A0A3-BB019DEF6021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBackend.Dominio.BlobStorageManager", "ApiBackend.Dominio.BlobStorageManager\ApiBackend.Dominio.BlobStorageManager.csproj", "{B20E9BE1-16C4-42D4-8C72-3ACD45AF300F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBackend.Applicacion.ExternalAgent.BlobStorageManager", "ApiBackend.Applicacion.ExternalAgent.BlobStorageManager\ApiBackend.Applicacion.ExternalAgent.BlobStorageManager.csproj", "{9A3F4902-827A-42E0-BBA8-688280C70D5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{570F89F8-9FD6-4D8F-8222-8F15A79FC64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570F89F8-9FD6-4D8F-8222-8F15A79FC64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570F89F8-9FD6-4D8F-8222-8F15A79FC64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570F89F8-9FD6-4D8F-8222-8F15A79FC64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A70431A6-1F7B-4AE6-A59F-9852BDA15D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70431A6-1F7B-4AE6-A59F-9852BDA15D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70431A6-1F7B-4AE6-A59F-9852BDA15D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70431A6-1F7B-4AE6-A59F-9852BDA15D57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C97BA909-902A-4C9F-9857-2DE3829FA2D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97BA909-902A-4C9F-9857-2DE3829FA2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97BA909-902A-4C9F-9857-2DE3829FA2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97BA909-902A-4C9F-9857-2DE3829FA2D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9D02529-3DCA-4FEE-AB58-CE408FC65D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D02529-3DCA-4FEE-AB58-CE408FC65D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D02529-3DCA-4FEE-AB58-CE408FC65D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D02529-3DCA-4FEE-AB58-CE408FC65D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C511936-CC5B-4AA3-B131-EB5D8D8DB40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C511936-CC5B-4AA3-B131-EB5D8D8DB40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C511936-CC5B-4AA3-B131-EB5D8D8DB40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C511936-CC5B-4AA3-B131-EB5D8D8DB40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A83F2E51-5DC3-4B6B-B849-091FE837D889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83F2E51-5DC3-4B6B-B849-091FE837D889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83F2E51-5DC3-4B6B-B849-091FE837D889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83F2E51-5DC3-4B6B-B849-091FE837D889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1FA1ED1-898B-4824-BB67-18D4639B27C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FA1ED1-898B-4824-BB67-18D4639B27C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FA1ED1-898B-4824-BB67-18D4639B27C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FA1ED1-898B-4824-BB67-18D4639B27C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43092233-CFB5-4607-8831-2AE1C4C2B5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43092233-CFB5-4607-8831-2AE1C4C2B5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43092233-CFB5-4607-8831-2AE1C4C2B5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43092233-CFB5-4607-8831-2AE1C4C2B5E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B49F6079-7D77-4619-87B4-67A27730E3AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49F6079-7D77-4619-87B4-67A27730E3AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49F6079-7D77-4619-87B4-67A27730E3AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49F6079-7D77-4619-87B4-67A27730E3AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50D14C3A-2082-4FFB-A894-742CB7AD6BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D14C3A-2082-4FFB-A894-742CB7AD6BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D14C3A-2082-4FFB-A894-742CB7AD6BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D14C3A-2082-4FFB-A894-742CB7AD6BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5229F42E-1E3D-4F0A-A0A3-BB019DEF6021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5229F42E-1E3D-4F0A-A0A3-BB019DEF6021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5229F42E-1E3D-4F0A-A0A3-BB019DEF6021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5229F42E-1E3D-4F0A-A0A3-BB019DEF6021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B20E9BE1-16C4-42D4-8C72-3ACD45AF300F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20E9BE1-16C4-42D4-8C72-3ACD45AF300F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20E9BE1-16C4-42D4-8C72-3ACD45AF300F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20E9BE1-16C4-42D4-8C72-3ACD45AF300F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A3F4902-827A-42E0-BBA8-688280C70D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3F4902-827A-42E0-BBA8-688280C70D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3F4902-827A-42E0-BBA8-688280C70D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3F4902-827A-42E0-BBA8-688280C70D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{570F89F8-9FD6-4D8F-8222-8F15A79FC64C} = {D29FB569-8D0D-4B38-81F2-498EFC6AFDE0}
+		{A70431A6-1F7B-4AE6-A59F-9852BDA15D57} = {26F9E746-9384-4A37-A35E-2F702BA54CFA}
+		{C97BA909-902A-4C9F-9857-2DE3829FA2D3} = {19B354D2-B186-4F76-B902-EE151743EBBC}
+		{D29FB569-8D0D-4B38-81F2-498EFC6AFDE0} = {4DD566D0-E48F-4DB4-96D1-17688DD01E25}
+		{26F9E746-9384-4A37-A35E-2F702BA54CFA} = {4C0AD8D7-6FCC-4099-B22A-F451BB6ADEE0}
+		{2C679512-0B5F-4AE4-910D-70CEC01871C2} = {2C4F3FC5-EE16-49BB-98B1-C6B9EEA5AB2A}
+		{35EB1A3E-CB57-4C5D-899E-E2157A8E41EF} = {42776134-85D7-4CD7-A0B7-DBE342C5F481}
+		{D9D02529-3DCA-4FEE-AB58-CE408FC65D18} = {35EB1A3E-CB57-4C5D-899E-E2157A8E41EF}
+		{59EEE63B-E167-4A56-9788-340EFB37B699} = {4DD566D0-E48F-4DB4-96D1-17688DD01E25}
+		{19B354D2-B186-4F76-B902-EE151743EBBC} = {2C679512-0B5F-4AE4-910D-70CEC01871C2}
+		{8377157E-B992-4605-B43F-54D2D619E066} = {2C679512-0B5F-4AE4-910D-70CEC01871C2}
+		{9C511936-CC5B-4AA3-B131-EB5D8D8DB40A} = {8377157E-B992-4605-B43F-54D2D619E066}
+		{FE36DA46-8137-46D0-AD66-7527060BD26A} = {C11F6D65-A306-49E5-9B8B-B6AA22B63B93}
+		{24C35F75-D19A-4E65-A711-8DB8C88410EC} = {C11F6D65-A306-49E5-9B8B-B6AA22B63B93}
+		{A83F2E51-5DC3-4B6B-B849-091FE837D889} = {24C35F75-D19A-4E65-A711-8DB8C88410EC}
+		{F05349CF-3688-4CEE-B73E-BC813699512E} = {4C0AD8D7-6FCC-4099-B22A-F451BB6ADEE0}
+		{F1FA1ED1-898B-4824-BB67-18D4639B27C5} = {F05349CF-3688-4CEE-B73E-BC813699512E}
+		{43092233-CFB5-4607-8831-2AE1C4C2B5E6} = {59EEE63B-E167-4A56-9788-340EFB37B699}
+		{B49F6079-7D77-4619-87B4-67A27730E3AC} = {77BB0206-8087-4828-A303-B54511020822}
+		{50D14C3A-2082-4FFB-A894-742CB7AD6BB4} = {35EB1A3E-CB57-4C5D-899E-E2157A8E41EF}
+		{E5C14BF2-8258-407E-A1AF-D3A1CDD431EE} = {2C679512-0B5F-4AE4-910D-70CEC01871C2}
+		{5229F42E-1E3D-4F0A-A0A3-BB019DEF6021} = {E5C14BF2-8258-407E-A1AF-D3A1CDD431EE}
+		{B20E9BE1-16C4-42D4-8C72-3ACD45AF300F} = {24C35F75-D19A-4E65-A711-8DB8C88410EC}
+		{9A3F4902-827A-42E0-BBA8-688280C70D5B} = {F05349CF-3688-4CEE-B73E-BC813699512E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC54E033-F807-4FFD-8B38-F6F5A4C52391}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 14
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://atsistemas.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ApiBackend\\ApiBackend.csproj
+		SccProjectTopLevelParentUniqueName1 = ApiBackend.sln
+		SccProjectName1 = ApiBackend
+		SccLocalPath1 = ApiBackend
+		SccProjectUniqueName2 = ApiBackend.Application.Core\\ApiBackend.Application.Core.csproj
+		SccProjectTopLevelParentUniqueName2 = ApiBackend.sln
+		SccProjectName2 = ApiBackend.Application.Core
+		SccLocalPath2 = ApiBackend.Application.Core
+		SccProjectUniqueName3 = Apibackend.Trasversal.DTOs\\Apibackend.Trasversal.DTOs.csproj
+		SccProjectTopLevelParentUniqueName3 = ApiBackend.sln
+		SccProjectName3 = Apibackend.Trasversal.DTOs
+		SccLocalPath3 = Apibackend.Trasversal.DTOs
+		SccProjectUniqueName4 = ApiBackend.Application.Services\\ApiBackend.Infraestructura.Agent.MSGraph.csproj
+		SccProjectTopLevelParentUniqueName4 = ApiBackend.sln
+		SccProjectName4 = ApiBackend.Application.Services
+		SccLocalPath4 = ApiBackend.Application.Services
+		SccProjectUniqueName5 = Recognition\\ApiBackend.Infraestructura.Agent.Recognition.csproj
+		SccProjectTopLevelParentUniqueName5 = ApiBackend.sln
+		SccProjectName5 = Recognition
+		SccLocalPath5 = Recognition
+		SccProjectUniqueName6 = ApiBackend.Dominio.ExternalAgents\\ApiBackend.Dominio.ExternalAgents.csproj
+		SccProjectTopLevelParentUniqueName6 = ApiBackend.sln
+		SccProjectName6 = ApiBackend.Dominio.ExternalAgents
+		SccLocalPath6 = ApiBackend.Dominio.ExternalAgents
+		SccProjectUniqueName7 = ApiBackend.Applicacion.ExternalAgent\\ApiBackend.Applicacion.ExternalAgent.csproj
+		SccProjectTopLevelParentUniqueName7 = ApiBackend.sln
+		SccProjectName7 = ApiBackend.Applicacion.ExternalAgent
+		SccLocalPath7 = ApiBackend.Applicacion.ExternalAgent
+		SccProjectUniqueName8 = Apibackend.WorkerRole\\WRColaTokens.csproj
+		SccProjectTopLevelParentUniqueName8 = ApiBackend.sln
+		SccProjectName8 = Apibackend.WorkerRole
+		SccLocalPath8 = Apibackend.WorkerRole
+		SccProjectUniqueName9 = Apibackend.Deployment\\AzureCloudService1.ccproj
+		SccProjectTopLevelParentUniqueName9 = ApiBackend.sln
+		SccProjectName9 = Apibackend.Deployment
+		SccLocalPath9 = Apibackend.Deployment
+		SccProjectUniqueName10 = ApiBackend.Transversal.DTOs.PLC\\ApiBackend.Transversal.DTOs.PLC.csproj
+		SccProjectTopLevelParentUniqueName10 = ApiBackend.sln
+		SccProjectName10 = ApiBackend.Transversal.DTOs.PLC
+		SccLocalPath10 = ApiBackend.Transversal.DTOs.PLC
+		SccProjectUniqueName11 = ApiBackend.Infraestructura.Agent.BlobStorage\\ApiBackend.Infraestructura.Agent.BlobStorage.csproj
+		SccProjectTopLevelParentUniqueName11 = ApiBackend.sln
+		SccProjectName11 = ApiBackend.Infraestructura.Agent.BlobStorage
+		SccLocalPath11 = ApiBackend.Infraestructura.Agent.BlobStorage
+		SccProjectUniqueName12 = ApiBackend.Dominio.BlobStorageManager\\ApiBackend.Dominio.BlobStorageManager.csproj
+		SccProjectTopLevelParentUniqueName12 = ApiBackend.sln
+		SccProjectName12 = ApiBackend.Dominio.BlobStorageManager
+		SccLocalPath12 = ApiBackend.Dominio.BlobStorageManager
+		SccProjectUniqueName13 = ApiBackend.Applicacion.ExternalAgent.BlobStorageManager\\ApiBackend.Applicacion.ExternalAgent.BlobStorageManager.csproj
+		SccProjectTopLevelParentUniqueName13 = ApiBackend.sln
+		SccProjectName13 = ApiBackend.Applicacion.ExternalAgent.BlobStorageManager
+		SccLocalPath13 = ApiBackend.Applicacion.ExternalAgent.BlobStorageManager
+	EndGlobalSection
+EndGlobal

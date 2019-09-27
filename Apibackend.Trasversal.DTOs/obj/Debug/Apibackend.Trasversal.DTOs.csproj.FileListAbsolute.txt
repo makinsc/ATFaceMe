@@ -1,0 +1,7 @@
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\Apibackend.Trasversal.DTOs\bin\Debug\Apibackend.Trasversal.DTOs.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\Apibackend.Trasversal.DTOs\bin\Debug\Apibackend.Trasversal.DTOs.pdb
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\Apibackend.Trasversal.DTOs\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\Apibackend.Trasversal.DTOs\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\Apibackend.Trasversal.DTOs\obj\Debug\Apibackend.Trasversal.DTOs.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\Apibackend.Trasversal.DTOs\obj\Debug\Apibackend.Trasversal.DTOs.pdb
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\Apibackend.Trasversal.DTOs\obj\Debug\Apibackend.Trasversal.DTOs.csprojResolveAssemblyReference.cache

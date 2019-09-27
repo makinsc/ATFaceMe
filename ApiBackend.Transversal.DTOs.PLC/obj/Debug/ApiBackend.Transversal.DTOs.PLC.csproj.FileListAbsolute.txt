@@ -1,0 +1,8 @@
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Transversal.DTOs.PLC\bin\Debug\ApiBackend.Transversal.DTOs.PLC.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Transversal.DTOs.PLC\bin\Debug\ApiBackend.Transversal.DTOs.PLC.pdb
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Transversal.DTOs.PLC\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Transversal.DTOs.PLC\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Transversal.DTOs.PLC\obj\Debug\ApiBackend.Transversal.DTOs.PLC.csprojResolveAssemblyReference.cache
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Transversal.DTOs.PLC\obj\Debug\ApiBackend.Transversal.DTOs.PLC.csproj.CoreCompileInputs.cache
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Transversal.DTOs.PLC\obj\Debug\ApiBackend.Transversal.DTOs.PLC.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Transversal.DTOs.PLC\obj\Debug\ApiBackend.Transversal.DTOs.PLC.pdb

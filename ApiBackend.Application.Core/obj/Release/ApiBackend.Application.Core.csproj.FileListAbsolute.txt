@@ -1,0 +1,12 @@
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Core\bin\Release\ApiBackend.Application.Core.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Core\bin\Release\ApiBackend.Application.Core.pdb
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Core\bin\Release\Microsoft.Identity.Client.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Core\bin\Release\Newtonsoft.Json.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Core\bin\Release\Microsoft.Identity.Client.xml
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Core\bin\Release\Newtonsoft.Json.xml
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Core\obj\Release\ApiBackend.Application.Core.csprojResolveAssemblyReference.cache
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Core\obj\Release\ApiBackend.Application.Core.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Core\obj\Release\ApiBackend.Application.Core.pdb
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Core\bin\Release\ApiBackend.Transversal.DTOs.PLC.dll
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Core\bin\Release\ApiBackend.Transversal.DTOs.PLC.pdb
+C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\ApiBackend.Application.Core\obj\Release\ApiBackend.Application.Core.csproj.CoreCompileInputs.cache

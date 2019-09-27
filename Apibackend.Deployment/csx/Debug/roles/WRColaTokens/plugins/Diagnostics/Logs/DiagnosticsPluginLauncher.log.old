@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [21/12/2017 12:01:47] Emulator config file set to C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\Apibackend.Deployment\csx\Debug\roles\WRColaTokens\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [21/12/2017 12:01:47] DiagnosticsStoreRootPath set to: C:\Users\jjsalguero\AppData\Local\dftmp\Resources\effac64b-220c-4611-b8c1-ba91b34b2062
+DiagnosticsPluginLauncher.exe Information: 0 : [21/12/2017 12:01:47] Loading config file: C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\Apibackend.Deployment\csx\Debug\roles\WRColaTokens\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [21/12/2017 12:01:47] Config file to read: C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\Apibackend.Deployment\csx\Debug\roles\WRColaTokens\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [21/12/2017 12:01:47] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [21/12/2017 12:01:47] Emulator config file set to C:\Proyectos\Xamarin\AtFaceMe\Source\APIBackend\ApiBackend\Apibackend.Deployment\csx\Debug\roles\WRColaTokens\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [21/12/2017 12:01:47] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [21/12/2017 12:01:47] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [21/12/2017 12:01:47] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [21/12/2017 12:01:47] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [21/12/2017 12:01:49] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [21/12/2017 12:01:49] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [21/12/2017 12:01:49] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [21/12/2017 12:01:49] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [21/12/2017 12:01:49] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [21/12/2017 12:03:00] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [21/12/2017 12:03:00] DiagnosticPlugin exited with code 0
